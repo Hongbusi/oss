@@ -1,2 +1,2 @@
 # oss
-阿里云 oss 资源管理。
+Object Storage Service 资源管理。
